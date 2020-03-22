@@ -4,10 +4,6 @@ guess_count = 0
 guess_limit = 3
 guess_limit_reached = False
 
-hints = ["1", "2", "3"]
-for so in hints:
-    print[0]
-
 
 hint = input("For help type 'help': ")
 if hint.upper() == "HELP":
